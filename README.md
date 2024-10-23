@@ -1,4 +1,4 @@
-Структура проету:
+Структура проекту:
 
 Frontend -- Backend -- Database
 
